@@ -12,4 +12,17 @@
                 {%endfor%}
             </ul>
         </div>
+<div>
+        <h2>Colaboran</h2>
+        <hr>
+                <ul class="partners ">
+                    {% for partner in site.data.partners2  %}
+                    <li>
+                        <a href="{{partner.url}}" target="_blank">
+                            <img src="{{partner.image-url}}" alt="{{partner.name}} logo">
+                        </a>
+                    </li>
+                    {%endfor%}
+                </ul>
+            </div>
 </section>

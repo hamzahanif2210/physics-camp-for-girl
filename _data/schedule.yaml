@@ -1,19 +1,23 @@
-- name: Llegada
+- name: Taller "Nociones estadística para manejo de datos"- Ángeles Calduch
   day:  1
-  time: "18:30"
+  time: "15:00"
 
-- name: Presentación de las cuatro ponentes iniciales
+- name: Intervalo
+  day:  1
+  time: "18:00"
+
+- name: Video de Bienvenida desde WiDS Stanford
   day:  1
   time: "18:40"
 
-- name: Inicio del coloquio
+- name: Palabras de bienvenida de WiDS Ambassadors
   day:  1
-  time: "18:45"
+  time: "18:50"
 
-- name: Networking
+- name: Livestream WiDS Stanford - Technical Vision Talks
   day:  1
-  time: "19:45"
+  time: "19:00"
 
-- name: Finalización del evento
+- name: Mesa redonda por Laura Rodriguez, Rosa Benet y Cristina Aranda. Moderadora Fernanda Peset
   day:  1
-  time: "20:45"
+  time: "19:50"

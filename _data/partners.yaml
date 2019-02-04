@@ -1,12 +1,7 @@
-- name: DevWomen
-  image-url: https://devwomen.com/wp-content/uploads/2018/04/logo-devwomen.svg?w=200
-  url: https://devwomen.com/
+- name: Women in Data Science
+  image-url: /assets/images/Stanford.png
+  url: https://www.widsconference.org
 
-- name: FemDevs
-  image-url: https://femdevs.files.wordpress.com/2017/03/logo_invertido.png?w=200
-  url: https://femdevs.org
-
-- name: VLCTechHub
-  image-url: /assets/images/logo.png
-  url: https://vlctechhub.org
-
+- name: Escuela Técnica Superior de Ingeniería Informática
+  image-url: /assets/images/logo_mugi miniatura.png
+  url: https://www.inf.upv.es/www/etsinf/es/

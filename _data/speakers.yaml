@@ -1,21 +1,23 @@
-- name: Raquel M. Carmena
-  avatar: /assets/images/speakers/raquel_m_carmena.jpg
-  bio: "Ingeniera en Informática y aprendiz constante. ”¿Para qué es esta cartulina, mamá?” Esta es la pregunta que tantas veces ha repetido a su madre, desde bien pequeña, al abrir el libro de recetas de cocina. Era una tarjeta perforada de los años 70, cuando su madre programaba en COBOL. Tener un referente femenino tan cerca es una de las razones principales por las que escogió esta profesión."
-  twitter: bberrycarmen
+- name: Ángeles Calduch Losa
+  avatar: /assets/images/speakers/angeles_calduch.jpg
+  bio: "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+  twitter: angeles_calduch
 
-- name: Patricia Pons
-  avatar: /assets/images/speakers/patricia_pons.jpg
-  bio: "Patricia es Doctora en Informática por la Universitat Politècnica de València. Amante de los animales, su tesis se ha centrado en el desarrollo de entornos interactivos naturales para animales que ayuden a mejorar su bienestar, y que permitan una mejor relación entre distintas especies y los humanos. En 2016 recibió una Endeavour Fellowship del gobierno australiano para realizar una estancia de investigación en la Universidad de Melbourne colaborando con Zoos Victoria. Además, ha presidido durante 2 años el capítulo de estudiantes ACM-W UPV y coorganiza desde 2016 la celebración española de ACM-W: Informática para tod@s para visibilizar a la mujer en la tecnología."
-  twitter: patrypons
+- name: Cristina Aranda
+  avatar: /assets/images/speakers/cristina_aranda.jpg
+  bio: "Cristina Aranda es PR, Pre-Sales & Innovation Research en Intelygenz, empresa dedicada al desarrollo de Software (Data, API, AI, IoT...) con sedes en Madrid y San Francisco. Tiene más de 16 años de experiencia en marketing, innovación y transformación digital con empresas del Ibex35, Top500, Pymes y Startups. Además, es cofundadora de Mujeres Tech, una asociación sin ánimo de lucro que tiene por objetivo promover iniciativas entre niñas, jóvenes y mujeres y hombres para aumentar la presencia femenina en el sector digital, y, al mismo tiempo, establecer lazos con hombres dispuestos a generar la misma igualdad de oportunidad para las mujeres. doctora en Lingüística Teórica y Aplicada por la UAM y el IUI. Ortega y Gasset, licenciada en Filología Hispánica por la UAM, Máster en Internet Business por el ISDI y Digital Technology for Business Program por IGZ Academy. Ahora está profundizando en el procesamiento natural del lenguaje para su aplicación en el Internet de las cosas y la inteligencia artificial."
+  twitter: cris_aranda_
 
-- name: Lucía Pons
-  avatar: /assets/images/speakers/lucia_pons.jpg
-  bio: "Lucía Pons es Ingeniería Informática por la Universidad Politécnica de Valencia (UPV) donde actualmente cursa el Máster en Ingeniería de Computadores y Redes. Trabaja como investigadora en el Grupo de Arquitecturas Paralelas (GAP) en el Departamento de Informática de Sistemas y Computadores (DISCA) de la UPV. Ha publicado recientemente su primer artículo para el congreso internacional EURO-PAR. El artículo trata sobre un algoritmo de particionado de caché de último nivel (LLC) a través de una tecnología de Intel denominada Intel Cache Allocation Technology (CAT).
-
-  Es también presidenta del capítulo local de la UPV de ACM-W, donde se realizan actividades para la comunidad universitaria con el fin de visibilizar el papel de la mujer."
-  twitter: luciapons25
+- name: Laura Rodriguez
+  avatar: /assets/images/speakers/laura_rodriguez.jpg
+  bio: "XXXXXXXXXXXXXXXXXXXXXX"
   
-- name: Beatriz Olcina
-  avatar: /assets/images/speakers/beatriz_olcina.jpg
-  bio: "Beatriz Olcina es productora de videojuegos, audiovisuales y VR, una apasionada de los retos, actualmente está desarrollando una aventura gráfica de corte social inspirada en la historia de sus abuelas y las mujeres de su familia, dando visibilidad a los problemas que se encuentran diariamente y a los que se enfrentaron."
-  twitter: Illinois_break
+  
+- name: Rosa Benet
+  avatar: /assets/images/speakers/rosa_benet.jpg
+  bio: "XXXXXXXXXXXXXXXXXXXXX"
+  twitter: benet_rosa
+
+- name: Fernanda Peset
+  avatar: /assets/images/speakers/fernanda_peset.jpg
+  bio: "Fernanda Peset es Titular de Universidad de la Universidad Politécnica de Valencia. Su docencia y publicaciones se orientan a: la comunicación científica, el acceso abierto y la implantación del protocolo OAI-PMH, la normalización de la información, la descripción de documentos, sistemas de documentación de museos y datos abiertos y enlazados.Sus últimos proyectos están relacionados con la implantación de tecnología blockchain e iniciativas para promover una economía más justa."
