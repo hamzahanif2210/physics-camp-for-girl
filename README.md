@@ -1,4 +1,4 @@
-Landing del evento "Debate con tecnólogas" dentro de la iniciativa 11 de Febrero, para celebrar el día de la mujer y la niña en la cienca.
+﻿Landing del evento "women in Data Science Valencia".
 
 # Run project
 
