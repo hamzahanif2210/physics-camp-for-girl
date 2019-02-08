@@ -1,23 +1,27 @@
-- name: Taller "Nociones estadística para manejo de datos"- Ángeles Calduch
+- name: Taller "Nociones estadísticas para manejo de datos" - Ángeles Calduch
   day:  1
   time: "15:30"
 
-- name: Intervalo
+- name: Taller "¿Cómo aprenden las máquinas? Una introducción práctica al aprendizaje automático" - Laura Sebastià
+  day:  1
+  time: "15:30"
+
+- name: Pausa
   day:  1
   time: "18:30"
 
-- name: Video de Bienvenida desde WiDS Stanford
+- name: Video de Bienvenida desde WiDS Stanford.
   day:  1
   time: "18:50"
 
-- name: Palabras de bienvenida de WiDS Ambassadors
+- name: Palabras de bienvenida de WiDS Ambassadors.
   day:  1
   time: "18:55"
 
-- name: Livestream WiDS Stanford - Technical Vision Talks
+- name: Livestream WiDS Stanford - Technical Vision Talks.
   day:  1
   time: "19:00"
 
-- name: Mesa redonda por Laura Rodriguez, Rosa Benet y Cristina Aranda. Moderadora Fernanda Peset
+- name: Mesa redonda. Intervienen - Laura Rodríguez, Rosa Benet y Cristina Aranda. Modera - Fernanda Peset.
   day:  1
   time: "19:50"
