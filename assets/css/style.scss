@@ -307,6 +307,24 @@ footer {
   }
 }
 
+.workshops {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-column-gap: 80px;
+  margin-bottom: 60px;
+}
+.workshop {
+  text-align: center;
+  margin-bottom: 40px;
+  .summary {
+    text-align: left;
+    margin-top: 40px;    
+  }
+  .twitter {
+    padding-bottom: 20px;
+  }
+}
+
 @media (max-width: 768px) {
   .text-center-xs {
     text-align: center;
@@ -334,6 +352,10 @@ footer {
   .speakers {
    grid-template-columns: 1fr;
   }
+
+  .workshops {
+    grid-template-columns: 1fr;
+   }
 }
 
 body {
