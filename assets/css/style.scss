@@ -361,3 +361,11 @@ footer {
 body {
   background-image: url('/assets/images/5.jpg');
 }
+
+#partners,
+#schedule {
+  .section-heading {
+    background-color: rgba(150,150,150,0.3);
+    padding: 20px;
+  }
+}
