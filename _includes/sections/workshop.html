@@ -10,7 +10,7 @@
         <h3>{{workshop.name}}</h3>  
         <p class="twitter">
           {% if workshop.twitter != "" and workshop.twitter != nil %}
-            Tallerista: <a href="https://twitter.com/{{workshop.twitter}}" target="_blank" title={{workshop.twitter}}>
+            <a href="https://twitter.com/{{workshop.twitter}}" target="_blank" title={{workshop.twitter}}>
             @{{workshop.twitter}}
             </a>
           {% endif %}
