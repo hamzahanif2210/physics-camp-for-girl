@@ -7,5 +7,5 @@
   url: https://twitter.com/AcmUpv
 
 - name: Las Naves
-image-url: /assets/images/lasnaves.png
-url: https://www.lasnaves.com
+  image-url: /assets/images/lasnaves.png
+  url: https://www.lasnaves.com
