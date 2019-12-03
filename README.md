@@ -6,7 +6,7 @@ Needs: Ruby
 
 ## Local
 
-1. `git clone  https://github.com/vlctechhub/11defebrero.git`
+1. `git clone  https://github.com/VLCTechHub/widsvalencia2019.git`
 2. `gem install jekyll`
 3. `jekyll serve --watch`
 
