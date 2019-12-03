@@ -143,8 +143,24 @@ section {
   }
 }
 
+.logo {
+  display: flex;
+  justify-content: center;
+  padding: 25px;
+  
+  img {
+    width: 180px;
+  }
+  .heart {
+    color: #f00;
+    font-size: 40px;
+    margin: 0 20px;
+  }
+}
+
 header {
   width: 100%;
+  margin: 50px 0px;
 }
 
 #intro {
@@ -157,6 +173,10 @@ header {
     grid-column-start: 3;
     grid-column-end: 4;
   }
+}
+
+.intro__text {
+  text-align: center;
 }
 
 #about {
