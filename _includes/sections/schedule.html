@@ -10,7 +10,7 @@
                     <th></th>
                 </tr>
             </thead>
-            {% assign day1 = site.data.schedule | where:"day","1" %}
+            {% assign day1 = site.data.2019.schedule | where:"day","1" %}
             {% for event in day1 %}
             <tr>
                 <td>{{ event.time }}</td>
