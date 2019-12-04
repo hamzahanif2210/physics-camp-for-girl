@@ -318,6 +318,14 @@ footer {
   grid-column-gap: 80px;
   margin-bottom: 60px;
 }
+
+.workshops__2020 {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-column-gap: 80px;
+  margin-bottom: 60px;
+}
+
 .workshop {
   text-align: center;
   margin-bottom: 40px;
