@@ -1,11 +1,11 @@
 - name: VLCTechHub
-  image-url: /assets/images/logo.png
+  image-url: /assets/images/2019/logo-vlctechhub.png
   url: https://vlctechhub.org
 
 - name: ACM UPV chapter
-  image-url: /assets/images/ACM Logo mini (White).png
+  image-url: /assets/images/2019/ACM Logo mini (White).png
   url: https://twitter.com/AcmUpv
 
 - name: Las Naves
-  image-url: /assets/images/lasnaves.png
+  image-url: /assets/images/2019/lasnaves.png
   url: https://www.lasnaves.com
