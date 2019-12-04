@@ -6,7 +6,7 @@
 
 $footer-text: #666666;
 $main-color: #333333;
-$accent-color: #555555;
+$accent-color: #9dd942; /*555555*/
 $white-color: white;
 $text-color: #111111;
 * {
@@ -130,11 +130,11 @@ section {
 
   &.section-accent {
     background-color: darken($accent-color, 10%);
-    color: $white-color;
+    color: $text-color; /*$white-color*/
     z-index: 99;
     position: relative;
     h2, h3, a, small {
-      color: $white-color;
+      color: $text-color; /*$white-color*/
     }
     hr {
       background-color: transparent;
@@ -194,7 +194,7 @@ header {
 #faq {
   div.question > p {
     padding-bottom: 5vh;
-    color: #777;
+    color: $text-color; /*#777*/
 
   }
 
