@@ -376,6 +376,17 @@ footer {
    }
 }
 
+@media (max-width: 1330px) {
+  .speakers {
+   grid-template-columns: 1fr 1fr;
+  }
+
+  .workshops__2020 {
+    grid-template-columns: 1fr 1fr;
+   }
+}
+
+
 body {
   background-image: url('/assets/images/background.jpg');
 }
