@@ -1,7 +1,23 @@
-- name: VLCTechHub
-  image-url: /assets/images/2020/logo-vlctechhub.png
-  url: https://vlctechhub.org
-
 - name: ACM UPV chapter
-  image-url: /assets/images/2020/logo-mini-acm-White.png
+  image-url: /assets/images/2020/acm.png
   url: https://twitter.com/AcmUpv
+
+- name: Datamaran
+  image-url: /assets/images/2020/datamaran.png
+  url: https://www.datamaran.com
+
+- name: IIC
+  image-url: /assets/images/2020/iic.png
+  url: http://www.iic.uam.es
+
+- name: Sngular
+  image-url: /assets/images/2020/sngular.svg
+  url: https://www.sngular.com
+
+- name: t-hoarder
+  image-url: /assets/images/2020/t_hoarder.jpg
+  url: https://www.upf.edu/web/wisibilizalas
+
+- name: Wisibilizalas
+  image-url: /assets/images/2020/wisibilizalas.png
+  url: https://www.upf.edu/web/wisibilizalas

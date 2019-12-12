@@ -1,14 +1,14 @@
 <section id="workshops" class="section-accent">
   <div>
     <h1>
-      Talleres 15:30 - 18:30
+      Talleres 15:00 - 17:40
     </h1>
     <hr>
     <div class="workshops__2020">
       {% for workshop in site.data.2020.workshop %}
-      <div class="workshop">        
-        <h3>{{workshop.name}}</h3>  
-        
+      <div class="workshop">
+        <h3>{{workshop.name}}</h3>
+
         <p class="twitter">
           {% if workshop.twitter != "" and workshop.twitter != nil %}
             <a href="https://twitter.com/{{workshop.twitter}}" target="_blank" title={{workshop.twitter}}>
@@ -16,7 +16,7 @@
             </a>
           {% endif %}
         </p>
-        <h4>{{workshop.local}}</h4> 
+        <h4>{{workshop.local}}</h4>
         <p class="summary">
          {{workshop.summary}}
         </p>
