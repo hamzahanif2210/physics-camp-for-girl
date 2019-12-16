@@ -313,9 +313,14 @@ footer {
   .bio {
     text-align: left;
   }
-  .twitter {
+  .social_media {
     padding-bottom: 20px;
+
   }
+  .social_media__icon{
+    margin-left: 15px;
+  }
+
 }
 
 .workshops {
@@ -339,7 +344,7 @@ footer {
     text-align: left;
     margin-top: 40px;    
   }
-  .twitter {
+  .social_media {
     padding-bottom: 20px;
   }
 }
