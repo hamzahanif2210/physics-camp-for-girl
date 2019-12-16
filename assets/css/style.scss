@@ -349,6 +349,16 @@ footer {
   }
 }
 
+@media (max-width: 1330px) {
+  .speakers {
+   grid-template-columns: 1fr 1fr;
+  }
+
+  .workshops__2020 {
+    grid-template-columns: 1fr 1fr;
+   }
+}
+
 @media (max-width: 768px) {
   .text-center-xs {
     text-align: center;
@@ -370,27 +380,27 @@ footer {
       font-size: 20px;
     }
   }
-}
 
-@media (max-width: 1024px) {
   .speakers {
-   grid-template-columns: 1fr;
-  }
-
-  .workshops {
     grid-template-columns: 1fr;
    }
+ 
+   .workshops {
+     grid-template-columns: 1fr;
+    }
 }
 
-@media (max-width: 1330px) {
-  .speakers {
-   grid-template-columns: 1fr 1fr;
-  }
+// @media (max-width: 1024px) {
+//   .speakers {
+//    grid-template-columns: 1fr;
+//   }
 
-  .workshops__2020 {
-    grid-template-columns: 1fr 1fr;
-   }
-}
+//   .workshops {
+//     grid-template-columns: 1fr;
+//    }
+// }
+
+
 
 
 body {
