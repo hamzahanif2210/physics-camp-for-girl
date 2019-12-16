@@ -2,39 +2,47 @@
   avatar: /assets/images/2020/speakers/angeles_calduch.jpg
   bio: "Ángeles es Subdirectora de Ordenación Académica y Alumnado de la ETSINF-UPV. Se Licenció en Estadística y tiene un doctorado en Matemáticas. Ha participado en varios proyectos académicos como: Using Social Networks to teach in University, Depicting the visibility of private companies using web-based data, Core Skills for 21st Century Professionals (CoSki21), Teaching project. Siempre inmersa en el mundo de los datos cuenta con investigaciones como Estimating web impact evidence from interconnected data sources, Webometric methods to identify web trends in industrial sectors."
   twitter: angeles_calduch
+  linkedin: ángeles-calduch-losa-a8b4038
 
 
 - name: Valeria Haro
   avatar: /assets/images/2020/speakers/valeria_haro.jpeg
   bio: "Valeria es Magíster en Gestión de la Información por la Universidad Politécnica de Valencia e Ingeniera de Sistemas por la Universidad de Cuenca del Ecuador. Actualmente tiene el rol de Ingeniera de Datos en Datamaran y está a cargo de la infraestructura en la nube, las bases de datos. Tiene 4 años de experiencia en en limpieza de datos y creación de DataWarehouse. Sus actividades de investigación e intereses se centran en procesos ETL(extracción, transformación y carga), Datawarehouse, Datamining, Learning Analytics, Dashboards, Web Semántica, Bases de datos basadas en grafos, Servicios en la nube y Chatbots."
   twitter: ValeriaHaro
+  linkedin: valeriaharovalle
 
 - name: Lianet Sepúlveda
   avatar: /assets/images/2020/speakers/lianet_sepulveda.jpeg
   bio: "Lianet es ingeniera de software e investigadora de Procesamiento del Lenguaje Natural. Tiene un Doctorado en Ciencias de la Computación y un Máster en Ingeniería Eléctrica, ambos en la Universidad de São Paulo, Brasil. Es graduada de Ingenieria en Informática en el Instituto Politécnico Superior José Antonio Echeverría, La Habana, Cuba. Actualmente es Analista de Datos y está a cargo del diseño y desarrollo de las próximas versiones de la plataforma de Inteligencia Artificial (AI) patentada por Datamaran. Lianet también es la creadora de ActivaTM (Sistema de gestión de memoria de traducción), un sistema de gestión de memoria de traducción (TM) basado en un motor de búsqueda de texto completo para el flujo de trabajo híbrido de traducción automática.ry"
   twitter: li_sepul
+  linkedin: lianet-sepúlveda-torres-2490a7ba
 
 - name: Ana Freire
   avatar: /assets/images/2020/speakers/ana_freire.jpg
   bio: "Ana es Ingeniera y Doctora en Informática, Investigadora y profesora Lectora del Departamento de Ingenierías y Tecnologías de la Información y las Comunicaciones. Desde 2018 coordina el Centro de Estudios sobre Sostenibilidad de esta Universidad. Sus investigaciones se centran en la aplicación de la tecnología en general, y la inteligencia artificial en particular, a diversas necesidades sociales como la sostenibilidad y la salud mental. Ha contribuido con más de 40 publicaciones científicas, varias patentes y acumula reconocimientos entre los que destaca el premio al Joven Talento Científico Femenino de la Fundación Real Academia de las Ciencias y Mastercard, y el premio Ada Byron Joven 2019 otorgado por la Universidad de Deusto. Es una gran divulgadora e impulsora de la ciencia y la tecnología entre las más jóvenes, liderando varias iniciativas para romper la brecha de género en carreras técnicas, entre ellas, el concurso internacional Fundadora de Wisibilízalas (@wisibilizalas)."
   twitter: ana__freire
+  linkedin: 
 
 - name: Carmen Torrijos
   avatar: /assets/images/2020/speakers/carmen_torrijos.jpg
   bio: "Carmen es lingüista computacional en el Instituto de Ingeniería del Conocimiento (IIC). Es licenciada en Traducción e Interpretación por la Universidad Autónoma de Madrid (2010), Máster en Comunicación Intercultural por la Universidad de Alcalá de Henares (2011) y Graduada en Filología Hispánica por la Universidad Autónoma de Madrid (2018). Participa desde 2014 en proyectos de Procesamiento de Lenguaje Natural, creando gramáticas computacionales, taxonomías y realizando la anotación morfológica, sintáctica y semántica de corpus para el entrenamiento y validación de modelos de Machine Learning. Está especializada en el desarrollo de recursos lingüísticos para aplicaciones de análisis del sentimiento en texto libre, redes y conversación online, como la concienciación de los usuarios hacia temas sociales o la detección de emociones. Colabora en proyectos aplicados a inteligencia competitiva, seguimiento y reorientación de campañas e interpretación de comunidades en Twitter. Con 6 años de experiencia en perfiles multidisciplinares, se trata de un perfil mixto, centrado en la lingüística pero en constante formación para aprovechar el avance y la optimización que la tecnología puede ofrecer al ámbito de las humanidades."
   twitter: tweetmench
+  linkedin: carmen-torrijos-b447a632
 
 - name: Gemma Galdón
   avatar: /assets/images/2020/speakers/gemma_galdon.jpeg
   bio: "Gemma es socia fundadora y CEO de Éticas Research & Consulting, una SME con oficinas en España, Bélgica y Serbia. Ha sido finalista en el “European Woman Innovator of the Year”. Su trabajo hace énfasis en InteligenciaArtificial, datos y algoritmos responsables, además es analista de políticas públicas especializada en la vigilancia, el impacto social, legal y ético de la tecnología , las ciudades inteligentes, la privacidad  las políticas de seguridad, la resiliencia y la actuación policial. Realizó su PhD en Vigilancia, seguridad y políticas urbanas en la Universidad Autónoma de Barcelona, tiene un masterado en Gestión Pública y una investigación postdoctoral en el Departamento de Sociología de la Universidad de Barcelona en Políticas y Tecnologías de Seguridad. Ha sido directora del Programa de Políticas de Seguridad de la UOC (UOC). Anteriormente trabajó en el Instituto Transnacional (TNI, Amsterdam ), el Instituto de las Naciones Unidas para la Formación y la Investigación (UNITAR) y el Instituto de Seguridad Pública de Cataluña. Como académica se desenvuelve en varias universidades extranjeras, principalmente latinoamericanas, y es miembro de la Red Latinoamericana de Estudios de la Vigilancia (Lassner). Es también miembro del consejo asesor internacional de Privacy International y analista habitual en televisión, radio y prensa."
   twitter: gemmagaldon
+  linkedin:
 
 - name: Mariluz Congosto
   avatar: /assets/images/2020/speakers/mariluz_congosto.jpg
   bio: "Mª Luz Congosto es Doctora en Telemática por la Universidad Carlos III y Licenciada en Informática por la UPM. Actualmente es profesora Honorífica del Departamento de Ingeniería Telemática de la Universidad Carlos III. Desde el año 2008 es investigadora de datos sociales, preferentemente en Twitter. Utiliza análisis de redes y visualización para descubrir patrones de comportamiento, propagación de mensajes y caracterización de usuarios. Del 1998 al 2008 Trabajó en Telefónica I+D en grandes proyectos de innovación en el entorno de las Telecomunicaciones para la operadora Telefónica. Del 1980 al 1984 perteneció al equipo de FUJITSU que desarrolló el software básico del TESIS-A."
   twitter: congosto
+  linkedin:
 
 - name: Nerea Luis
   avatar: /assets/images/2020/speakers/nerea_luis.jpeg
   bio: "Nerea es ingeniera informática y PhD en Inteligencia Artificial. Actualmente trabaja en el equipo de Inteligencia Artificial de Sngular. En 2013 cofundó el evento gratuito de divulgación tecnológica T3chFest, con más de 2000 asistentes en la última edición. En 2016 Google la premió con la Women Techmakers Scholarship en la categoría Europea, Oriente Medio y África. Después obtuvo otra beca para acudir a la Grace Hopper Conference en Estados Unidos y eso fue lo que la unió completamente al movimiento ‘Women in Tech’. Desde entonces, participa en eventos promoviendo la inteligencia artificial y la diversidad tecnológica. En enero de 2018 se unió a la Fundación COTEC como experta en Tecnología, Talento y Género, lo cual le ha servido de altavoz para difundir sus iniciativas, ideas y conocimiento en foros con público de diferentes sectores. Ese mismo año también se unió a Ciencia en el Parlamento, donde ha podido hablar en el Congreso de los Diputados sobre Tecnologías Emergentes en el Transporte y las Comunicaciones. En 2019 fue condecorada con la medalla a la orden del mérito civil. Recientemente fue elegida entre las Top 100 mujeres líderes de España."
   twitter: sailormerqury
+  linkedin:
