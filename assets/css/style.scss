@@ -7,7 +7,7 @@
 $footer-text: #666666;
 $main-color: #333333;
 $accent-color: #00B140;
-$white-color: white;
+$white-color: #e6e6e6;
 $text-color: #111111;
 * {
   margin: 0;
@@ -43,7 +43,7 @@ body {
   background-size: cover;
   background-attachment: fixed;
   font-family: Roboto, sans-serif;
-  color: $text-color;
+  color: $text-color; 
 }
 
 hr {
@@ -130,11 +130,11 @@ section {
 
   &.section-accent {
     background-color: darken($accent-color, 10%);
-    color: $text-color; /*$white-color*/
+    color: $white-color; 
     z-index: 99;
     position: relative;
     h2, h3, a, small {
-      color: $text-color; /*$white-color*/
+      color: $white-color; 
     }
     hr {
       background-color: transparent;
