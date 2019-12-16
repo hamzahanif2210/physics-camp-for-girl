@@ -14,7 +14,9 @@
           <a class="social_media__icon" href="https://twitter.com/{{speaker.twitter}}" target="_blank" title={{speaker.twitter}}>
             <i aria-hidden="true" class="fa fa-twitter fa-lg"></i>
           </a>
-          
+        {% endif %}
+
+        {% if speaker.linkedin != "" and speaker.linkedin != nil %}  
           <a class="social_media__icon" href="https://www.linkedin.com/in/{{speaker.linkedin}}" target="_blank" title={{speaker.linkedin}}>
             <i aria-hidden="true" class="fa fa-linkedin fa-lg"></i>
           </a>
