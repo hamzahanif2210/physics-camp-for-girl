@@ -6,38 +6,38 @@
   day:  1
   time: "15:00"
 
-- name: Pausa
+- name: Pausa y coffee break
   day:  1
-  time: "17:50"
+  time: "17:30 18:05"
 
 - name: Video de Bienvenida desde WiDS Stanford
   day:  1
-  time: "18:00"
+  time: "18:05"
 
 - name: Palabras de bienvenida de WiDS Ambassadors
   day:  1
-  time: "18:05"
-
-- name: Mariluz Congosto
-  day:  1
   time: "18:10"
 
-- name: El talento digital en las humanidades":" lenguaje y texto en Inteligencia Artificial - Carmen Torrijos
+- name: "t-hoarder: ayudando a pescar en el caudaloso río de tweets - Mariluz Congosto"
   day:  1
-  time: "18:40"
+  time: "18:15"
+
+- name: "El talento digital en las humanidades: lenguaje y texto en Inteligencia Artificial - Carmen Torrijos"
+  day:  1
+  time: "18:45"
 
 - name: Privacidad, derechos digitales e impacto social de los datos - Gemma Galdón
   day:  1
-  time: "19:10"
+  time: "19:15"
 
-- name: STOP":" el proyecto para detectar comportamiento suicida en redes sociales - Ana Freire
+- name: "STOP: el proyecto para detectar comportamiento suicida en redes sociales - Ana Freire"
   day:  1
-  time: "19:40"
+  time: "19:45"
 
-- name: Arte artificial":"" la nueva revolución - Nerea Luis
+- name: "Arte artificial: la nueva revolución - Nerea Luis"
   day:  1
-  time: "20:10"
+  time: "20:15"
 
 - name: Networking time
   day:  1
-  time: "20:40"
+  time: "20:45"
