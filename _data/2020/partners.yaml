@@ -9,3 +9,7 @@
 - name: VLCTechHub
   image-url: /assets/images/2019/logo-vlctechhub.png
   url: https://vlctechhub.org
+
+- name: Las Naves
+  image-url: /assets/images/2019/lasnaves.png
+  url: https://www.lasnaves.com
