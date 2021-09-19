@@ -13,6 +13,16 @@ $text-color: #111111;
   margin: 0;
 }
 
+$color-1: #3a2c41; // Blackcurrant
+$color-2: #eaf2e3; // Willow Brook
+$color-3: #000000; // Black
+$color-4: #c0a672; // Gimblet
+
+$violet: hsl(283, 49%, 30%);
+$crimson: hsl(230, 7%, 16%);
+$dark-blue: hsl(230, 7%, 16%);
+
+
 @font-face {
   font-family: Biko;
   src: url('../fonts/Biko_Regular.otf');
@@ -129,13 +139,38 @@ section {
     }
   }
 
+.custom-shape-divider-top-1632093186 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+}
+
+.custom-shape-divider-top-1632093186 svg {
+    position: relative;
+    display: block;
+    width: calc(100% + 1.3px);
+    height: 118px;
+}
+
+.custom-shape-divider-top-1632093186 .shape-fill {
+    fill: #3a2c41;
+}
+
   &.section-accent {
-    background-color: darken($accent-color, 10%);
+
+
+
+  background: #3a2c41;
     color: $white-color; 
     z-index: 99;
     position: relative;
-    h2, h3, a, small {
-      color: $white-color; 
+    h2, h3,h1, small {
+    color: hsla(28,74%,63%,1);
+    }
+    a {
     }
     hr {
       background-color: transparent;
@@ -311,7 +346,8 @@ footer {
     border-radius: 50%;
   }
   .bio {
-    text-align: left;
+      text-align: justify;
+  text-justify: inter-word;
   }
   .social_media {
     padding-bottom: 20px;
@@ -393,6 +429,27 @@ footer {
 
 *, *:before, *:after {
   box-sizing: border-box;
+}
+
+.custom-shape-divider-bottom-1632091018 {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+    transform: rotate(180deg);
+}
+
+.custom-shape-divider-bottom-1632091018 svg {
+    position: relative;
+    display: block;
+    width: calc(100% + 1.3px);
+    height: 118px;
+}
+
+.shape-fill {
+margin-bottom: -10px;
 }
 
 .grid {
